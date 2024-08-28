@@ -34,13 +34,6 @@ BNB - 0xaAA9c55FF5ce8e6431d84BE3cf9d0Ba39742ac52
 
 ### If you are not familiar with GIT please have a look at [Releases]
 
-Clone Repo:
-
-```shell
-git clone https://github.com/DexSniping/DexSniping-BSC-ERC20-Telegram-Alerts.git
-cd DexSniping-BSC-ERC20-Telegram-Alerts
-```
-
 # Install
 
 **I'm using version 3.12.2 of Python, you can download it here (Be sure to use this version at least to avoid problems with the bot)**: [https://www.python.org/downloads/release/python-3122/](https://www.python.org/downloads/release/python-3122/)
